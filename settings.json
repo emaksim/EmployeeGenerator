@@ -1,0 +1,20 @@
+{
+    "login": {
+        "type": "pValue",
+        "value": "NWR\\s8jjs1io",
+        "caption": "Логин",
+        "hint": "Логин учётной записи"
+    },
+    "dbHost": {
+        "type": "pValue",
+        "value": "",
+        "caption": "IP-адрес БД",
+        "hint": "IP-адрес сервера базы данных"
+    },
+    "dbPath": {
+        "type": "pValue",
+        "value": "SSQ_Employee",
+        "caption": "Name",
+        "hint": "Имя базы данных"
+    }
+}
